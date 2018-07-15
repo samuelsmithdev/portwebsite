@@ -32,6 +32,11 @@ body {
   	-o-background-size: cover;
   	background-size: cover;
 }
+
 .creators{
+	color: #fed41b;
+}
+
+.btn{
 	color: #fed41b;
 }
